@@ -1,8 +1,9 @@
 # Tereh Vasyl
 
 ## Summary
+After studying the basics of front-end development, I am begined learn back-end (Ruby and Ruby on Rails).Studying Ruby I begined with "Learn to Program", by Chris Pine. Pretty often I experience difficulties in resolving different issues. I think this might be connected to the lack of fundamental knowledge. I read books and documentation for Ruby and Ruby on Rails to close this gap.
+And now I am seeking for more complex projects and mentorship to keep improving my skills and learning new technologies and methodologies.
 
-After studying the basics of front-end development, I am  begined learn back-end (Ruby and Ruby on Rails). And now  I am seeking for more complex projects and mentorship to keep improving my skills and learning new technologies and methodologies.
 
 ## Experience
 * Test task for "Ruby Summer Course" [Bus Tickets](https://github.com/Vasyl78/busticket)
