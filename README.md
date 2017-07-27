@@ -1,9 +1,11 @@
 # Tereh Vasyl
 
 ## Summary
-After studying the basics of front-end development, I am begined learn back-end (Ruby and Ruby on Rails).Studying Ruby I begined with "Learn to Program", by Chris Pine. Pretty often I experience difficulties in resolving different issues. I think this might be connected to the lack of fundamental knowledge. I read books and documentation for Ruby and Ruby on Rails to close this gap.
-And now I am seeking for more complex projects and mentorship to keep improving my skills and learning new technologies and methodologies.
+I began to study programming myself, and it turned out to be much more interesting than the specialty I study at the University.
 
+My story began from HTML and [HTML Book](http://htmlbook.ru/). Then I realized that markup is not worth anything and CSS is required for page layout. I studied CSS with the help of the book “The Big Book of CSS3 3rd edition”. After CSS I investigated JavaScript - an interesting language! Then there were again books and the course “Fundamentals of Web UI Development” on Prometheus and many articles.
+
+And my backend way started from Ruby and the book “Learn to Program” by Chris Pine. Though it seemed to me that this book was too simple I began to dig further: video tutorials on Ruby, and then Ruby on Rails, trying to do the same what the lecturer did.  Then I’ve applied to #pivorak summer Ruby course and...
 
 ## Experience
 * Test task for "Ruby Summer Course" [Bus Tickets](https://github.com/Vasyl78/busticket)
