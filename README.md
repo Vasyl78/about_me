@@ -33,6 +33,6 @@ And my backend way started from Ruby and the book “Learn to Program” by Chri
 * English, Primary (A2)
 
 ## My interests
-* I like read books
+* I like to read books
 * Self development
 * Trips
