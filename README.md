@@ -1,4 +1,4 @@
-# Tereh Vasyl
+# TereKh Vasyl
 
 ## Summary
 I began to study programming myself, and it turned out to be much more interesting than the specialty I study at the University.
@@ -9,8 +9,8 @@ And my backend way started from Ruby and the book “Learn to Program” by Chri
 
 ## Experience
 * Test task for "Ruby Summer Course" [Bus Tickets](https://github.com/Vasyl78/busticket)
-* 1 month worked in team on a project (course pivorak) 
-  Developed frond-end and back-end parts. Used: Ruby, Slim, scss and bootstrap
+* 1 month worked in team on a project (course pivorak)
+⋅⋅⋅Developed frond-end and back-end parts. Used: Ruby, Slim, scss and bootstrap
 
 ## Education and courses
 *
