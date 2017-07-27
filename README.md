@@ -15,12 +15,9 @@ And my backend way started from Ruby and the book “Learn to Program” by Chri
 
 ## Education and courses
 *
-  **Educational institution:** Lviv Polytechnic National University, Lviv, Ukraine
-
-  **Degree:** Master
-
-  **Name of specialty:** Water Supply and Sewerage
-
+  **Educational institution:** Lviv Polytechnic National University, Lviv, Ukraine  
+  **Degree:** Master  
+  **Name of specialty:** Water Supply and Sewerage  
   **Study period:** 1 September  2016 - 31 December 2017
 * #### Courses 
   * "Основи Web UI розробки" (prometheus) - online course
