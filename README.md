@@ -11,6 +11,7 @@ And my backend way started from Ruby and the book “Learn to Program” by Chri
 * Test task for "Ruby Summer Course" [Bus Tickets](https://github.com/Vasyl78/busticket)
 *
   1 month worked in team on a project (course pivorak)
+  
   Developed frond-end and back-end parts. Used: Ruby, Slim, scss and bootstrap
 
 ## Education and courses
