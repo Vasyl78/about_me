@@ -1,4 +1,4 @@
-# TereKh Vasyl
+# Terekh Vasyl
 
 ## Summary
 I began to study programming myself, and it turned out to be much more interesting than the specialty I study at the University.
