@@ -13,7 +13,7 @@ And my backend way started from Ruby and the book “Learn to Program” by Chri
   1 month worked in team on a project (course pivorak)  
    Developed frond-end and back-end parts. Used: Ruby, Slim, scss and bootstrap
 *
-  8 month worked in team on a projects (small company) (October 2017 - today)
+  8 month worked in team on a projects (small company) (October 2017 - today)   
    Developed frond-end and back-end parts. Used: Ruby,Regular expression, JavaScript, background jobs, Grape API
 
 ## Education and courses
