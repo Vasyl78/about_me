@@ -39,3 +39,5 @@ And my backend way started from Ruby and the book “Learn to Program” by Chri
 * I like to read books
 * Self development
 * Trips
+
+[codewars](https://www.codewars.com/users/Vasy679/badges/large)
