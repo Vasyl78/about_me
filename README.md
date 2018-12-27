@@ -40,4 +40,4 @@ And my backend way started from Ruby and the book “Learn to Program” by Chri
 * Self development
 * Trips
 
-[![https://www.codewars.com/users/Vasy679/badges/large]](https://www.codewars.com/users/Vasy679/badges/large)
+[![codewars](https://www.codewars.com/users/Vasy679/badges/large)](https://www.codewars.com/users/Vasy679/badges/large)
